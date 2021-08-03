@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\PotatoEngine\PotatoEngine\Shader.h(50,40): warning C4101: 'e': unreferenced local variable
+C:\PotatoEngine\PotatoEngine\Mesh.h(79,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\PotatoEngine\PotatoEngine\Main.cpp(241,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\PotatoEngine\PotatoEngine\Main.cpp(404,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PotatoEngine\PotatoEngine\Main.cpp(405,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PotatoEngine\PotatoEngine\Main.cpp(409,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\PotatoEngine\PotatoEngine\Main.cpp(410,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\PotatoEngine\PotatoEngine\Main.cpp(412,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PotatoEngine\PotatoEngine\Main.cpp(413,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PotatoEngine\PotatoEngine\Main.cpp(430,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  60 of 2212 functions ( 2.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    30 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Potato Engine.vcxproj -> C:\PotatoEngine\PotatoEngine\x64\Release\Potato Engine.exe
