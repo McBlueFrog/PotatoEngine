@@ -1,0 +1,4 @@
+﻿  Main.cpp
+G:\PotatoEngine\PotatoEngine\PotatoEngine\Graphics.h(12,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+G:\PotatoEngine\PotatoEngine\PotatoEngine\Graphics.h(16,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  PotatoEngine.vcxproj -> G:\PotatoEngine\PotatoEngine\x64\Debug\PotatoEngine.exe

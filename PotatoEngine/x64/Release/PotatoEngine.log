@@ -1,0 +1,8 @@
+﻿  Main.cpp
+G:\PotatoEngine\GitRepository\PotatoEngine\PotatoEngine\Main.cpp(38,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  125 of 129 functions (96.9%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PotatoEngine.vcxproj -> G:\PotatoEngine\GitRepository\PotatoEngine\x64\Release\PotatoEngine.exe
